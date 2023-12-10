@@ -2,8 +2,6 @@ package FirstCode;
 
 import java.util.Scanner;
 
-
-
 public class cQueue {
     static class LightQueue {
         LightQueue (int size) {
